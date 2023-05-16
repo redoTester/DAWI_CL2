@@ -1,5 +1,5 @@
-create database ec2_palomino;
-use ec2_palomino;
+create database railway;
+use railway;
 
 create table tb_supervisor
 (
